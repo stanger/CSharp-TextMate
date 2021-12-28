@@ -1,0 +1,6 @@
+[submodule "csharp-tmLanguage"]
+	path = csharp-tmLanguage
+	url = git@github.com:dotnet/csharp-tmLanguage.git
+[submodule "csharp-tmbundle"]
+	path = csharp-tmbundle
+	url = https://github.com/wintermi/csharp-tmbundle.git
